@@ -4,7 +4,6 @@ public class Main {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
         int x;
-        int huj;
         while(true){
             System.out.println("Wybierz rodzaj figury ktora chcesz narysowac: ");
             System.out.println("1. Prostokat");
