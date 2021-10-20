@@ -1,6 +1,9 @@
+import org.w3c.dom.ls.LSOutput;
+
 import java.util.Scanner;
 
 public class Main {
+    int k;
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
         int x;
