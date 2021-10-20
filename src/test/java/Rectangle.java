@@ -8,5 +8,4 @@ public class Rectangle {
         System.out.println(" -----------------------");
 
     }
-
 }
