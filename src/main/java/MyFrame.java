@@ -6,7 +6,7 @@ import java.awt.*;
 
 public class MyFrame extends JFrame {
 
-int huj;
+int huuj;
 
     JButton button;
 
