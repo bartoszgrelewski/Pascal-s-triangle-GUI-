@@ -6,6 +6,9 @@ import java.awt.*;
 
 public class MyFrame extends JFrame {
 int l;
+
+int huj;
+
     JButton button;
 
     MyFrame(){
