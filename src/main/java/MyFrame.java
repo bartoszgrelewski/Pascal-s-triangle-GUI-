@@ -5,7 +5,6 @@ import javax.swing.text.StyledDocument;
 import java.awt.*;
 
 public class MyFrame extends JFrame {
-int l;
 
 int huj;
 
