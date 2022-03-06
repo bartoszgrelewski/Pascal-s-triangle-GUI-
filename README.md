@@ -8,6 +8,6 @@
 To import this project you should:
 ```
 Open it as a Maven project.
-Compile
+Compile.
 Run.
 ```
