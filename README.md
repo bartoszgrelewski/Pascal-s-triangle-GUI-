@@ -1,5 +1,5 @@
 # Pascal's triangle / binary tree
-*I wrote this program 100% in Java. 
+*I wrote this program 100% in Java.*
 *I used AWT & SWING for creating GUI. 
 *It has exceptions handling.
 *In this project I used MAVEN for managing.
